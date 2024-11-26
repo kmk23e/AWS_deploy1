@@ -5,7 +5,7 @@
 - Dev tools
 - Lombok
 
-## 배포 위치
+### 배포 위치 EDC2
 
 ### 배포 방법
 - 로컬에서 github 업로드
